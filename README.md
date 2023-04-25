@@ -1,5 +1,5 @@
-# IBM-AI-Workflow
-AI Capstone Project For IBM AI Workflow Course
+# IBM AI Enterprise Workflow Capstone
+Files for the IBM AI Enterprise Workflow Capstone project. 
 
 ## Part 1
 
